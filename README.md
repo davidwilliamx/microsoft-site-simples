@@ -1,0 +1,2 @@
+# microsoft-site-simples
+Imagine que você seja um desenvolvedor da Web que tenha sido incumbido de tornar o site da sua empresa atrativo para uma gama mais ampla de clientes. Para permitir que os clientes personalizem as experiências deles no seu site, você decide adicionar suporte para temas claros e escuros. Você cria um site de prova de conceito simples para demonstrar o suporte aos temas usando CSS e escreve uma função JavaScript para alternar entre esses temas.
